@@ -1,0 +1,10 @@
+# Ignorar __pycache__, pero no en Evidencia4
+__pycache__/
+!Evidencia4/__pycache__/
+
+# Ignorar archivos *.pyc, pero no los que están en Evidencia4
+*.pyc
+!Evidencia4/*.pyc
+
+# Incluir todos los archivos dentro de Evidencia4
+!Evidencia4/
