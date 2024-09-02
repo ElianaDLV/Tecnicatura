@@ -1,5 +1,5 @@
 import pytest
-from barradesonido import BarraDeSonido
+from barrasonido import BarraDeSonido
 
 @pytest.fixture
 def barra():
