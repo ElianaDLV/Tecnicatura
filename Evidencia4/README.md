@@ -1,5 +1,7 @@
 # Proyecto: Barra de Sonido - Programación Orientada a Objetos (POO) y TDD
 
+![Miniatura Ev4](https://github.com/user-attachments/assets/c25c1c67-b847-44cb-8e05-460b5ae7db01)
+
 ## 🎯 Objetivo
 
 Diseñar y desarrollar una clase en Python que represente una barra de sonido, aplicando TDD (Desarrollo Guiado por Pruebas), conceptos de Programación Orientada a Objetos (POO), y asegurando una estructura de código limpia y mantenible.
@@ -51,4 +53,4 @@ La base de datos se diseñó para almacenar información sobre las barras de son
 
 ## 📷​ Video de Presentación
 
-[Ver Video de Presentación](https://youtu.be/BADQmpgejzo)
+[Ver Video de Presentación](https://www.youtube.com/watch?v=Vs_jjs5kOa0)
