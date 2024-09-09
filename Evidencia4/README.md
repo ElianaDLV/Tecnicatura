@@ -48,7 +48,7 @@ La base de datos se diseñó para almacenar información sobre las barras de son
 
 2. **Ejecutar las Pruebas Unitarias**:
    ```bash
-   python -m pytest test-barradesonido.py
+   python -m pytest test-barrasonido.py
    ```
 
 ## 📷​ Video de Presentación
